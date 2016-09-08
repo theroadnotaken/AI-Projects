@@ -1,0 +1,17 @@
+Execution Read Me:
+
+Program 1: (findAmazonParrotOrders.py)
+Please execute the program as below :
+python3 findAmazonParrotOrders.py
+
+Program 2: (routingPath.py)
+Please execute the program as below :
+python3 routingPath.py '"Y"_City,_Arkansas' 'Page,_Oklahoma' 'time' 'bfs'
+python3 routingPath.py '"Y"_City,_Arkansas' 'Page,_Oklahoma' 'time' 'dfs'
+python3 routingPath.py '"Y"_City,_Arkansas' 'Page,_Oklahoma' 'time' 'astar'
+
+Program 3: (solver16.py)
+Please execute the program as below :
+python3 solver16.py input_board_file.txt
+python3 solver16.py test1_inputBoard.txt
+python3 solver16.py test2_inputBoard.txt
